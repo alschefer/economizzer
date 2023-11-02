@@ -61,7 +61,7 @@ $config = [
             'class' => 'yii\swiftmailer\Mailer',
             'useFileTransport' => true,
             'messageConfig' => [
-                'from' => ['master@economizzer.com' => 'Admin'],
+                'from' => ['alan@alschefer.tec.br' => 'Alan Fernandes'],
                 'charset' => 'UTF-8',
             ]
         ],
