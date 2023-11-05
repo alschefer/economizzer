@@ -70,6 +70,7 @@ return [
     'Expense' => 'Despesa',
     'Expenses by Category' => 'Despesas por Categoria',
     'Expenses by Segment' => 'Despesas por Segmento',
+    'Segment' => 'Segmento',
     'Export Data' => 'Exportar Dados',
     'File' => 'Arquivo',
     'Filename' => 'Nome do Arquivo',
